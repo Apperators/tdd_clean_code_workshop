@@ -1,6 +1,6 @@
 # tdd_clean_code_workshop
 
-Hello Apperator. This is Typescript repo contains a few prompts designed to help more junior devs or those not familiar with test driven development get experience with TDD.
+Hello Apperator. This Typescript repo contains a few prompts designed to help more junior devs or those not familiar with test driven development get experience with TDD.
 
 ## Pre-Reqs
 * Node (recommended version 15+)
