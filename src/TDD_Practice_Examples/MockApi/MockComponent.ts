@@ -4,10 +4,6 @@ export const getLuke = () => {
   return getLukeAPI();
 };
 
-export const callMe = () => {
-  return "this is a function";
-};
-
-export const callingCallMe = () => {
+export const callingCallMe = (callMe: () => void) => {
   return callMe();
 };
